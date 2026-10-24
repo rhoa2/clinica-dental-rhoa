@@ -1,0 +1,7 @@
+CLÍNICA DENTAL RHOA — PROPUESTA DE SITIO WEB
+
+Abre index.html para ver la página en tu navegador.
+Para publicar en GitHub Pages: sube index.html y la carpeta imagenes a la raíz de un repositorio nuevo, luego Settings > Pages > Deploy from branch > main / (root).
+No se incluyeron dirección, horarios ni profesionales porque aún no fueron proporcionados.
+Las imágenes son las enviadas por el cliente. Verifica derechos de uso comercial antes de publicar.
+Revisa y valida afirmaciones comerciales, especialidades y tratamientos antes de hacer pública la web.
